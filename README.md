@@ -13,11 +13,11 @@ perform topic modeling on a public dataset of Clinton emails.
 
 ![topic_1](./word_cloud_images/topic_1.png)
 
-### Topic 2: Correspondence with Sidney Blumenthal
+### Topic 2: Correspondence with Sidney Blumenthal, a former Bill Clinton aide and journalist
 
 ![topic_2](./word_cloud_images/topic_2.png)
 
-### Topic 3: Correspondence with Huma Abedin
+### Topic 3: Correspondence with Huma Abedin, a senior aide to Hillary Clinton
 
 ![topic_3](./word_cloud_images/topic_3.png)
 
